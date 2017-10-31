@@ -9,9 +9,10 @@ form {
     /* Para ver el borde del formulario */
     padding: 1em;
     border: 1px solid #CCC;
-    margin-right: 10px;
+    margin-right: 100px;
     margin-top: -400px;
     background-color: #eaeef1;
+    color: #e42e5b;
 }
 
 form div + div {
@@ -23,6 +24,7 @@ label {
     display: inline-block;
     width: 90px;
     text-align: right;
+    font-weight: bold;
 }
 
 
@@ -68,8 +70,11 @@ button {
 }
 
 
-.imagenimpla{
-  position: relative; /*hace que muevas relativamente su posición*/
+#imagenimpla.container{
+  position: relative;
+  width: 62%;
+  margin-left: 320px;
+  margin-top: -10px;
 }
 
 hr {
@@ -82,7 +87,11 @@ hr {
   background-color: #e6e9ee;
     height: 30%;
     width: 27%;
-    right: 280px;
+    right: 195px;
+}
+
+#citaparra{
+   font-weight: bold;
 }
 
 
