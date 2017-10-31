@@ -94,6 +94,12 @@ hr {
    font-weight: bold;
 }
 
+#terceroparra.container{
+      margin-right: -60px;
+}
+#terceroparra.container{
+     margin-right: -60px;
+}
 
 @media (max-width: 1550px) {
 
