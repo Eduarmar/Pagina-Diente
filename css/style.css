@@ -5,12 +5,12 @@ body{
 form {
     /* Sólo para centrar el formulario a la página */
     margin: 0 auto;
-    width: 400px;
+    width: 335px;
     /* Para ver el borde del formulario */
     padding: 1em;
     border: 1px solid #CCC;
     margin-right: 100px;
-    margin-top: -400px;
+    margin-top: -495px;
     background-color: #eaeef1;
     color: #e42e5b;
 }
