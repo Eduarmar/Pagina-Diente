@@ -3,14 +3,12 @@ body{
 }
 
 form {
-    /* Sólo para centrar el formulario a la página */
     margin: 0 auto;
-    width: 335px;
-    /* Para ver el borde del formulario */
+    width: 330px;
     padding: 1em;
     border: 1px solid #CCC;
-    margin-right: 100px;
-    margin-top: -495px;
+    margin-right: -445px;
+    margin-top: -530px;
     background-color: #eaeef1;
     color: #e42e5b;
 }
@@ -73,7 +71,7 @@ button {
 #imagenimpla.container{
   position: relative;
   width: 62%;
-  margin-left: 320px;
+  margin-left: 95px;
   margin-top: -10px;
 }
 
@@ -86,12 +84,14 @@ hr {
 #segundoparra.container{
   background-color: #e6e9ee;
     height: 30%;
-    width: 27%;
-    right: 195px;
+    width: 31%;
+    right: 315px;
 }
 
 #citaparra{
    font-weight: bold;
+   top: -535px;
+   left: 425px;
 }
 
 #terceroparra.container{
