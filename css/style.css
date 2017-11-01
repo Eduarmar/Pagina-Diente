@@ -55,9 +55,27 @@ hr {
       font-size: 14px;
   }
 
+
 }
 
 @media (max-width: 600px) {
+
+  h1 {
+      font-size: 35px;
+  }
+
+  h2 {
+      font-size: 25px;
+  }
+
+  h3 {
+      font-size: 15px;
+  }
+
+
+  p {
+      font-size: 14px;
+  }
 
 }
 
