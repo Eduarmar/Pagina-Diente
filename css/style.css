@@ -18,8 +18,12 @@ hr {
 
 .contenido{
   margin-top: 20px;
+  margin-bottom: 80px;
 }
 
+.contenido p{
+  font-size: 18px;
+}
 
 @media (max-width: 1550px) {
 
