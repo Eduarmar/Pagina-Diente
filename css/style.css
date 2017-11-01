@@ -25,6 +25,12 @@ hr {
   font-size: 18px;
 }
 
+.precios{
+  background-color:#e6ebef;
+  color: #4da29b;
+  width: 340px;
+}
+
 @media (max-width: 1550px) {
 
 }
@@ -64,17 +70,20 @@ hr {
   font-size: 28px;
 }
 
+.precios{
+  width: 300px;
+}
 
 }
 
 @media (max-width: 600px) {
 
   h1 {
-      font-size: 18px;
+      font-size: 28px;
   }
 
   h2 {
-      font-size: 13px;
+      font-size: 22px;
   }
 
   h3 {
@@ -87,9 +96,12 @@ hr {
   }
 
   .titulo{
-  font-size: 14px;
+  font-size: 20px;
 }
 
+.precios{
+  width: 280px;
+}
 
 }
 
