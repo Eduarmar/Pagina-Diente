@@ -5,6 +5,15 @@ hr {
   border-top: 7px solid rgba(0, 0, 0, .1);
 }
 
+
+.header {
+  background-image: url(../images/fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{ color: #4ca39b;}
+
 .titulo {
   color: #4ca39b;
   font-size: 30px;
